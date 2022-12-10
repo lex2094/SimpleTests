@@ -40,6 +40,5 @@ public class RegistrationFormTest extends TestBase {
                     $("#stateCity-wrapper").$(byText("Delhi")).click();
                     $("#submit").click();
                 });
-            System.out.println("done");
     }
 }
